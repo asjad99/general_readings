@@ -1,5 +1,6 @@
 # psychology
 
+
 1. Insights from Stanford Prison Experiment Professor: 
 
 People's behaviour is much predicted by the enviornment not as much by personalities. 
