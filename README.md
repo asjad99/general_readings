@@ -6,21 +6,16 @@
 
 ----
 
-
 #### AI: 
-- (A bitter lesson)http://www.incompleteideas.net/IncIdeas/BitterLesson.html]
-- (The No. 1 Predictor of Career Success According To Network Science)[]
-- Deep Learning: A Critical Appraisal: https://arxiv.org/pdf/1801.00631.pdf 
-- What Data‑Centric AI is Not: https://hazyresearch.stanford.edu/what-data-centric-ai-is-not
-
+- [A bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 #### Tech: 
-- (The Purpose of technology)[https://balajis.com/the-purpose-of-technology/]
-- (It's time to build)[https://a16z.com/2020/04/18/its-time-to-build/]
-- (Software is Reorganizing the World)[]
-- (2020: The Year the Internet Age Truly Began)[https://www.pairagraph.com/dialogue/5e569e6fbc944e998c79502820c3b0c9/1]
-- History of Communication https://eager.io/blog/communication-pre-internet/
-- Battery Economics: https://fullstackeconomics.com/untitled-2/
+- [The Purpose of technology](https://balajis.com/the-purpose-of-technology/)
+- [It's time to build)(https://a16z.com/2020/04/18/its-time-to-build/)
+- [Software is Reorganizing the World)
+- [2020: The Year the Internet Age Truly Began](https://www.pairagraph.com/dialogue/5e569e6fbc944e998c79502820c3b0c9/1)
+- [History of Communication](https://eager.io/blog/communication-pre-internet/)
+- [Battery Economics:](https://fullstackeconomics.com/untitled-2/)
 
 #### Career (tech and data science): 
 
@@ -35,6 +30,9 @@
 9. [Mehran Sahami Inspirational Speech](https://www.youtube.com/watch?v=nWRGPxSNnag)
 10. [Hackers and Painters](http://www.paulgraham.com/hp.html)
 11. Embrace the Grind: https://jacobian.org/2021/apr/7/embrace-the-grind/
+12. - Deep Learning: A Critical Appraisal: https://arxiv.org/pdf/1801.00631.pdf 
+- What Data‑Centric AI is Not: https://hazyresearch.stanford.edu/what-data-centric-ai-is-not
+
 
 - https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775 
 - https://simplystatistics.org/posts/2020-11-24-the-four-jobs-of-the-data-scientist/
@@ -44,11 +42,7 @@
 - 
  Notes: https://chrisalbon.com, https://dfrieds.com, https://github.com/donnemartin/data-science-ipython-notebooks
 
----
 
-
-    - Biology is becoming like software. Inexpensive and fast genetic sequencing, together with computational techniques including AI, enabled Pfizer/BioNTech, Moderna, and others to develop effective mRNA vaccines for COVID-19 in astonishingly little time. In addition to creating vaccines that target new COVID variants, these technologies will enable developers to target diseases for which we don’t have vaccines, like AIDS.
-    - AI-assisted programming (for example, GitHub Copilot) has a long way to go, but it will make quick progress and soon become just another tool in the programmer’s toolbox. And it will change the way programmers think too: they’ll need to focus less on learning programming languages and syntax and more on understanding precisely the problem they have to solve. https://www.oreilly.com/radar/whats-ahead-for-ai-vr-nfts-and-more/
    
 
 ### Coding: 
@@ -56,19 +50,13 @@
 
 
 
-
-### Awesome People: 
-
-- Balaji Srinivasan:  https://balajis.com/
-- Naval: https://nav.al/ 
-- (Naval and Kapil Gupta on Hardwork)[]
-
 **System Design**
 
 - [System-design-primer](https://github.com/donnemartin/system-design-primer )
 - [Design Principles](https://principles.adactio.com/ )
 - [Systems design for advanced beginners: ](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
-- [Unix Philosophy ](
+- [Unix Philosophy ]()
+
 
 
 ### Software Engineering: 
@@ -82,6 +70,12 @@
 - how to be a great hacker? 
 - Literature Programming
 
+
+### Awesome People: 
+
+- Balaji Srinivasan:  https://balajis.com/
+- Naval: https://nav.al/ 
+- (Naval and Kapil Gupta on Hardwork)[]
 
 ### Startup Resources
 - The Elements of Value[https://hbr.org/2016/09/the-elements-of-value]
