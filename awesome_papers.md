@@ -10,3 +10,15 @@
 
 
 #### Predictive maintenance 
+
+
+#### Process Mining 
+
+- Process Mining Manifesto
+- A Survey of Process-Oriented Data Science and Analytics for supporting Business Process Management
+- Towards an evaluation framework for process mining algorithms
+- Automated Discovery of Process Models from Event Logs: Review and Benchmark
+- Process mining with the heuristics miner-algorithm
+- Process mining in healthcare: A literature review
+- Process mining for healthcare: Characteristics and challenges 
+- Trace Encoding in Process Mining: a survey and benchmarking
