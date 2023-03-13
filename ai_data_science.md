@@ -1,5 +1,8 @@
 
-# Case studies
+
+- [A bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+### Case studies
 
 To learn to design machine learning systems, it's helpful to read case studies to see how actual teams deal with different deployment requirements and constraints. Many companies, such as Airbnb, Lyft, Uber, Netflix, run excellent tech blogs where they share their experience using machine learning to improve their products and/or processes. If you're interested in a company, you should visit their tech blogs to see what they've been working on -- it might come up during your interviews! Below are some of these great case studies.
 
