@@ -6,7 +6,11 @@
 
 ----
 
-#### AI: 
+#### Machine Learning:
+
+[List of Interesting reads and Case Studies](https://github.com/asjad99/general_readings/blob/main/ai_data_science.md) 
+
+
 - [A bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 #### Tech: 
