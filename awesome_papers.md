@@ -1,5 +1,4 @@
-
-### Deep Learning
+#### Deep Learning
 
 - LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44.
 - Attention is all you need 
@@ -7,9 +6,30 @@
 
 #### Time Series 
 
+- [Structural Time Series](https://structural-time-series.fastforwardlabs.com/FF16-Structural_Time_Series-Cloudera_Fast_Forward.pdf)
 - On the trend, detrending, and variability of nonlinearand nonstationary time series
 - New insights and best practices for the successful use of Empirical Mode Decomposition, Iterative Filtering and derived algorithms
 - Revisiting Time Series Outlier Detection: Definitions and Benchmarks
+
+
+#### Anomaly Detection 
+
+
+#### Predictive maintenance 
+
+
+#### Process Mining 
+
+- Process Mining Manifesto
+- A Survey of Process-Oriented Data Science and Analytics for supporting Business Process Management
+- Towards an evaluation framework for process mining algorithms
+- Automated Discovery of Process Models from Event Logs: Review and Benchmark
+- Process mining with the heuristics miner-algorithm
+- Process mining in healthcare: A literature review
+- Process mining for healthcare: Characteristics and challenges 
+- Trace Encoding in Process Mining: a survey and benchmarking
+
+
 
 ### AGI 
 
@@ -31,20 +51,3 @@ Pierre-Yves Oudeyer, “Autonomous development annd learning in AI and robotics:
 Spelke and Blass, “Intelligent machines and human minds”
 Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others”
 Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
-
-#### Anomaly Detection 
-
-
-#### Predictive maintenance 
-
-
-#### Process Mining 
-
-- Process Mining Manifesto
-- A Survey of Process-Oriented Data Science and Analytics for supporting Business Process Management
-- Towards an evaluation framework for process mining algorithms
-- Automated Discovery of Process Models from Event Logs: Review and Benchmark
-- Process mining with the heuristics miner-algorithm
-- Process mining in healthcare: A literature review
-- Process mining for healthcare: Characteristics and challenges 
-- Trace Encoding in Process Mining: a survey and benchmarking
