@@ -11,7 +11,6 @@
 [List of Interesting reads and Case Studies](https://github.com/asjad99/general_readings/blob/main/ai_data_science.md) 
 
 
-- [A bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 #### Tech: 
 - [The Purpose of technology](https://balajis.com/the-purpose-of-technology/)
@@ -48,11 +47,6 @@
 
 
    
-
-### Coding: 
-
-
-
 
 **System Design**
 
