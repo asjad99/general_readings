@@ -6,6 +6,16 @@
 - [2020: The Year the Internet Age Truly Began](https://www.pairagraph.com/dialogue/5e569e6fbc944e998c79502820c3b0c9/1)
 - [History of Communication](https://eager.io/blog/communication-pre-internet/)
 - [Battery Economics:](https://fullstackeconomics.com/untitled-2/)
+- https://a16z.com/2020/04/18/its-time-to-build/
+- https://moores.samaltman.com/
+- https://en.wikipedia.org/wiki/Dominic_Cummings 
+- https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/
+- https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z
+- https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter
+
+
+
+
 
 #### Career (tech and data science): 
 
