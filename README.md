@@ -5,7 +5,19 @@
 
 “history doesn’t repeat itself, but it rhymes.”
 
+
+
 ----
+
+
+
+Economics: 
+
+
+
+
+
+
 
 #### Big ideas in CS 
 
@@ -31,5 +43,4 @@
 
 
 ### Economics
-
 
