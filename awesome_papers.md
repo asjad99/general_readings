@@ -32,6 +32,7 @@
 
 #### Generative AI: 
 
+- [Generative AI: Perspectives from Stanford HAI](https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf)
 
 
 #### Machine Learning: 
@@ -43,6 +44,7 @@ https://www.youtube.com/watch?v=pkJkHB_c3nA)
 mechanics approaches and complex learning behavior](https://arxiv.org/pdf/1710.09553.pdf)
 - [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://dl.acm.org/doi/pdf/10.1145/3446776)
 - [A Theory of Universal Learning](https://web.math.princeton.edu/~rvan/tri201106.pdf)
+
 
 
 ### AGI 
