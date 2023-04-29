@@ -30,6 +30,17 @@
 - Trace Encoding in Process Mining: a survey and benchmarking
 
 
+#### Generative AI: 
+
+
+
+#### Machine Learning: 
+
+- [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/pdf/1810.10525.pdf) and [Talk](AI for physics & physics for AI
+)
+
+
+
 
 ### AGI 
 
