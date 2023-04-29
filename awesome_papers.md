@@ -36,10 +36,13 @@
 
 #### Machine Learning: 
 
-- [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/pdf/1810.10525.pdf) and [Talk](AI for physics & physics for AI
-)
-
-
+- [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/pdf/1810.10525.pdf) and [Talk - AI for physics & physics for AI](
+https://www.youtube.com/watch?v=pkJkHB_c3nA)
+- [Lecture on  Is Learning Feasible?](https://www.youtube.com/watch?v=MEG35RDD7RA&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=4)
+- [Rethinking generalization requires revisiting old ideas: statistical
+mechanics approaches and complex learning behavior](https://arxiv.org/pdf/1710.09553.pdf)
+- [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://dl.acm.org/doi/pdf/10.1145/3446776)
+- [A Theory of Universal Learning](https://web.math.princeton.edu/~rvan/tri201106.pdf)
 
 
 ### AGI 
